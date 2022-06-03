@@ -4,7 +4,7 @@ import openai
 import requests
 from fastapi import FastAPI
 
-openai.api_key = "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"
+openai.api_key = ""
 
 app = FastAPI()
 
